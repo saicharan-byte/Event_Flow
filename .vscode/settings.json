@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "EventFlow/src"
+    ],
+    "java.project.outputPath": "EventFlow/bin"
+}
